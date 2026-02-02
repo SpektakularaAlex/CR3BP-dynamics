@@ -37,25 +37,25 @@ To build intuition and validate implementation choices, the repo also includes s
 <p align="center">
   <img src="figures/3-body_figure8.png" width="85%">
 </p>
-<p align="center"><em>Example 3-body trajectory (3D).</em></p>
+<p align="center"><em>The remarkable figure-8 solution found in 1993 by Christopher Moore..</em></p>
 
-The remarkable figure-8 solution found in 1993 by Christopher Moore.
+
 
 <table>
   <tr>
     <td align="center" width="50%">
       <img src="figures/3-body_Lagrange_unit_circ.png" width="95%">
-      <br><em>Configuration / reference setup.</em>
+      <br><em>Lagrange-unit circle solution</em>
     </td>
     <td align="center" width="50%">
       <img src="figures/3-body_sim.png" width="95%">
-      <br><em>3-body simulation (3D trajectory view).</em>
+      <br><em>3-body chaotic simulation example (3D trajectory view).</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img src="figures/3-body_sim2.png" width="95%">
-      <br><em>3-body simulation (alternative initial condition / viewpoint).</em>
+      <br><em>3-body chaotic simulation example (3D trajectory view).</em>
     </td>
     <td align="center" width="50%">
       <!-- Optional: add another figure later -->
