@@ -52,11 +52,19 @@ To build intuition and validate implementation choices, the repo also includes s
       <br><em>3-body chaotic simulation example (3D trajectory view).</em>
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="50%">
       <img src="figures/3-body_sim2.png" width="95%">
       <br><em>3-body chaotic simulation example (3D trajectory view).</em>
     </td>
+    <td align="center" width="50%">
+      <img src="figures/LC_figures_chaotic.png" width="95%">
+      <br><em>3-body chaotic simulation example (3D trajectory view).</em>
+    </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="50%">
       <!-- Optional: add another figure later -->
       <br><br>
