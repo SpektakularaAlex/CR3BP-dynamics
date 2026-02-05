@@ -60,7 +60,7 @@ To build intuition and validate implementation choices, the repo also includes s
     </td>
     <td align="center" width="50%">
       <img src="figures/LC_figures_chaotic.png" width="95%">
-      <br><em>3-body chaotic LC-regularized</em>
+      <br><em>3-body chaotic Levi Civita regularized</em>
     </td>
   </tr>
   
