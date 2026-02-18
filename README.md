@@ -44,6 +44,17 @@ To build intuition and validate implementation choices, the repo also includes s
 <table>
   <tr>
     <td align="center" width="50%">
+      <img src="figures/Family_Cartesian_2.png" width="95%">
+      <br><em>Family of solutions approaching collision with the m2 primary (the moon) in cartesian coordinates</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="figures/Family_LC.png" width="95%">
+      <br><em>Family of solutions approaching collision with the m2 primary (the moon) in Levi Civita regularized coordinates (found using pseudo-arclength continuation)</em>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%">
       <img src="figures/3-body_Lagrange_unit_circ.png" width="95%">
       <br><em>Lagrange-unit circle solution</em>
     </td>
