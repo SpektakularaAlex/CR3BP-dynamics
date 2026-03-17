@@ -77,6 +77,10 @@ To build intuition and validate implementation choices, the repo also includes s
   
   <tr>
     <td align="center" width="50%">
+      <img src="figures/Family_of_orbits.png" width="95%">
+      <br><em>Family of orbits around the moon</em>
+    </td>
+    <td align="center" width="50%">
       <!-- Optional: add another figure later -->
       <br><br>
       <em>More figures may be added as the repository is cleaned up.</em>
